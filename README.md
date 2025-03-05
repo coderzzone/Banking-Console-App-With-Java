@@ -29,7 +29,7 @@ This project is a Java-based banking console application that simulates fundamen
     *   Java Development Kit (JDK) - Version 8 or higher is recommended.
 2.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone https://github.com/coderzzone/Banking-Console-App-With-Java
     cd BankingConsoleApp
     ```
 3.  **Compile the Code:**
